@@ -1,1 +1,0 @@
-# Determinante_Q01
